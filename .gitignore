@@ -1,3 +1,8 @@
+# Custom rules
+/Homework_1_part_2/data/example.json
+/Homework_1_part_2/data/result.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
